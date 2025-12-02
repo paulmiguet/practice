@@ -1,6 +1,6 @@
-# Project title
+# TITRE
 #
-# Project description
+# Project description 1
 # ...
 #
 # Author: Paul Miguet
